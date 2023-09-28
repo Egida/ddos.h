@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/workspaces/ddos.h/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/ddos.h.dir/ddos.h.cpp.o -c /workspaces/ddos.h/ddos.h.cpp",
+  "file": "/workspaces/ddos.h/ddos.h.cpp",
+  "output": "CMakeFiles/ddos.h.dir/ddos.h.cpp.o"
+}
+]

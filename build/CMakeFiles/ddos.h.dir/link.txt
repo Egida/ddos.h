@@ -1,0 +1,2 @@
+/usr/bin/ar qc libddos.h.a CMakeFiles/ddos.h.dir/ddos.h.cpp.o
+/usr/bin/ranlib libddos.h.a
