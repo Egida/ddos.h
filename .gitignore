@@ -32,5 +32,3 @@
 *.app
 
 # lib
-oatpp/
-build/
