@@ -1,5 +1,6 @@
-#include <iostream>
+#ifndef DDOS_H
+#define DDOS_H
 
-void say_hello(){
-    std::cout << "Hello, from ddos.h!\n";
-}
+int ddos(int ip);
+
+#endif
